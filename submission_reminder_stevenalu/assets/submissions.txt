@@ -1,0 +1,11 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Methode Duhujubumwe, Shell Navigation, not submitted
+Winebald Banituze, Shell Navigation, submitted
+Principie Cyubahiro, Shell Basics, not submitted
+Procula Giramata, Shell Git, submitted
+Rodriguez Gisubizo, Shell Navigation, not submitted
+
