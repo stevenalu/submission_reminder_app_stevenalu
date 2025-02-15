@@ -9,28 +9,28 @@ This project automates assignment submission reminders using Bash scripting, sho
 - **Automated Setup:**  
   Initializes a structured project environment with a single script.
 - **Dynamic Configuration:**  
-  Easily customize settings via the \`config/config.env\` file.
+  Easily customize settings via the `config/config.env` file.
 - **Smart Reminders:**  
-  Notifies students who haven't submitted assignments based on \`assets/submissions.txt\`.
+  Notifies students who haven't submitted assignments based on `assets/submissions.txt`.
 
 ## 🛠 Quick Start
 
 1. **Clone the Repository:**
    
-   git clone https://github.com/stevenalu/submission_reminder_app.git
+   `git clone https://github.com/stevenalu/submission_reminder_app.git`
    
 2. **Initialize the Environment:**
    
-   cd submission_reminder_app
+   `cd submission_reminder_app`
 
-   ./create_environment.sh
+  `./create_environment.sh`
    
    - Enter *stevenalu* when prompted to create the project directory.
 4. **Run the Application:**
    
-   cd submission_reminder_stevenalu
+   `cd submission_reminder_stevenalu`
 
-   ./startup.sh
+   `./startup.sh`
 
 
 ## 🌟 About
