@@ -16,27 +16,22 @@ This project automates assignment submission reminders using Bash scripting, sho
 ## 🛠 Quick Start
 
 1. **Clone the Repository:**
-   \`\`\`bash
+   
    git clone https://github.com/stevenalu/submission_reminder_app.git
-   \`\`\`
+   
 2. **Initialize the Environment:**
-   \`\`\`bash
+   
    cd submission_reminder_app
+
    ./create_environment.sh
-   \`\`\`
-   - Enter \`stevenalu\` when prompted to create the project directory.
-3. **Run the Application:**
-   \`\`\`bash
+   
+   - Enter *stevenalu* when prompted to create the project directory.
+4. **Run the Application:**
+   
    cd submission_reminder_stevenalu
+
    ./startup.sh
-   \`\`\`
 
-## 🎨 Customization
-
-- **Update Configuration:**  
-  Modify \`config/config.env\` to set assignment details and deadlines.
-- **Manage Submissions:**  
-  Edit \`assets/submissions.txt\` to update student submission statuses.
 
 ## 🌟 About
 
@@ -53,4 +48,4 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 
 ---
 
-*Author: [Steven Kayitare](https://github.com/stevenalu)*"
+*Author: [Steven Kayitare](https://github.com/stevenalu)*
