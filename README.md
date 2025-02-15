@@ -1,4 +1,4 @@
-"# 🚀 Submission Reminder App
+# 🚀 Submission Reminder App
 
 Welcome to the **Submission Reminder App** by [Steven Kayitare](https://github.com/stevenalu)!
 
